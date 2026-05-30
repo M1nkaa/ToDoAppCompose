@@ -5,8 +5,8 @@ A clean, modern Android app for managing daily tasks, built entirely with Jetpac
 ## 📸 Screenshots
 
 | Task List | Add Task |
-|---|---|
-| <img src="screenshots/screen_list.png" width="200"/> | <img src="screenshots/screen_add.png" width="200"/> |
+|-----------|----------|
+| <img width="322" height="678" alt="image" src="https://github.com/user-attachments/assets/ec1d0b38-c7f6-4089-b930-1d8c5ca11ad4" /> | <img width="322" height="678" alt="image" src="https://github.com/user-attachments/assets/63cf1e1a-8e5e-4de8-a1bd-5dcfa7fedc29" /> |
 
 ## ✨ Features
 
